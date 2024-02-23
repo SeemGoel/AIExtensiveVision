@@ -8,7 +8,7 @@ from torchvision import datasets, transforms
 class Network(nn.Module):
     #This defines the structure of the NN.
     def __init__(self):
-        super(Net, self).__init__()
+        super(Network, self).__init__()
         self.conv1 = nn.Conv2d(1, 32, kernel_size=3)
         self.conv2 = nn.Conv2d(32, 64, kernel_size=3)
         self.conv3 = nn.Conv2d(64, 128, kernel_size=3)
