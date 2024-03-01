@@ -1,4 +1,4 @@
-### **Project** ERA V2 Session 5
+### **Project** Session 5
 #### Instructions
 ##### Re-look at the code that we worked on in Assignment 4 (the fixed version). 
 Move the contents of the code to the following files:
