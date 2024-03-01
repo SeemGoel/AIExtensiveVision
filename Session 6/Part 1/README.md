@@ -20,15 +20,25 @@ Graphs:
 - ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/54fccecd-410e-4f0f-b459-9af4bcd59b06)
 
 
-- Learning rate:0.5
+- Learning rate:0.2
 - ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/e8a8625f-9795-4075-80d3-58ad68c29f20)
 
 
-
 - Learning rate:0.5
 
-
 - ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/47a96591-0531-4d1b-ab0a-ce1efa6078fb)
+
+- Learning rate: 0.8
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/7db0b1bb-3e92-4d67-9ec1-f4183830ef56)
+
+- Learning rate: 1.0
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/74728863-c25b-4941-a3ab-5d64b9d008c6)
+
+- Learning rate: 2.0
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/76e306bd-69ac-40e2-b3c6-31c6481ba69c)
+
+
+
 
 
 
