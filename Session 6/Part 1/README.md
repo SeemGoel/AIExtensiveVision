@@ -12,20 +12,15 @@ Assumptions:
 - Target (t1, t2)
 - Error Total (Total = E1 + E2)
 - Weights (w1,w2 ………, w8)
+![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/0e1f121a-968a-4953-b98d-e5c3c9d2b45f)
 
 
-### Forward Propagation
-- h1=w1i1+w2i2
-- out_h1 = σ(h1) = σ(w1i1+w2i2)
-- h2=w3i1+w4i2
-- out_h2 = σ(h2) = σ(w3i1+w4i2)
-- o1 = w5*out_h1 + w6 * out_h2
-- out_o1 = σ(o1) = σ(w5*out_h1 + w6 * out_h2)
-- o2 = w7*out_h1 + w8 * out_h2
-- out_o2 = σ(o2) = σ(w7*out_h1 + w8 * out_h2)
-- E_Total = E1 + E2
-- E1 = 1/2 *(t1 - out_o1) **2
-- E2 = 1/2 *(t2 - out_o2) **2
+Graphs:
+Learning rate: 0.01
+![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/54fccecd-410e-4f0f-b459-9af4bcd59b06)
+
+
+
 
 
 
