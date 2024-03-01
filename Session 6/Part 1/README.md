@@ -16,8 +16,20 @@ Assumptions:
 
 
 Graphs:
-Learning rate: 0.01
-![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/54fccecd-410e-4f0f-b459-9af4bcd59b06)
+- Learning rate: 0.01
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/54fccecd-410e-4f0f-b459-9af4bcd59b06)
+
+
+- Learning rate:0.5
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/e8a8625f-9795-4075-80d3-58ad68c29f20)
+
+
+
+- Learning rate:0.5
+
+
+- ![image](https://github.com/SeemGoel/AIExtensiveVision/assets/59606392/47a96591-0531-4d1b-ab0a-ce1efa6078fb)
+
 
 
 
